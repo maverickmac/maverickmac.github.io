@@ -1,35 +1,41 @@
-title: Rhiannon Payne
-description: > # this means to ignore newlines until "baseurl:"
-  Rhiannon Payne is an SF-based entrepreneur, startup consultant, writer, & speaker. Currently writing a book titled "The Remote Work Era."
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maverickmac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: "https://twitter.com/rhiannon_io" #if your site has a twitter account, enter it here
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "http://maverickmac.github.io"
 
-# Author Settings
-author: Rhiannon Payne # add your name
-author-img: Rhiannon Payne - Author Photo.png # add your photo
-about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adventurer. In 2017 I founded <a href="https://seafoam.media" target="_blank">Sea Foam Media & Technology</a> to help startups tell their stories & build exciting products. I am also passionate about <a href="https://remoteworkera.com" target="_blank">The Remote Work Era</a>, with a book to be published in 2020. # add description
-social-twitter: rhiannon_io # add your Twitter handle
-social-facebook: rhiannonmarypayne # add your Facebook handle
-social-github: rhiannon-io # ig handle
-social-linkedin: rhipayne # add your Linkedin handle
-social-email: payne@rhiannon.io # add your Email address
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
-# Disqus
-discus-identifier: Rhiannon Payne # add your discus identifier
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
-# Tracker
-analytics: # Google Analytics
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-# Build Settings
-markdown: kramdown
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-paginate
-  - jemoji
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-paginate: 8
-paginate_path: "/page/:num"
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
