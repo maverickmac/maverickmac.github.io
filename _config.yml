@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "http://maverickmac.github.io"
+title:          Maverick Mac
+description:    "A curated list of awesome mac applications and utilities"
+baseurl:        ""
+url:            "https://maverickmac.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Maverick Mac
+  url:          https://maverickmac.github.io
+  email:        maverick.mac@linuxmail.in
 
 # Build settings
 markdown:       kramdown
