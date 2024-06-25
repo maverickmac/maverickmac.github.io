@@ -1,15 +1,25 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "MaverickMac"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Welcome to MaverickMac, your go-to destination for discovering stunning and innovative applications for your Mac. Founded in 2024, MaverickMac is the brainchild of Scarlet Sparrow, a passionate tech enthusiast who believes in the power of free and open-source software.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+At MaverickMac, we embark on a journey to unearth hidden gems that enhance your Mac experience. Whether it's finding the best Finder extensions, exploring powerful scripting and automation tools, or showcasing creative and practical applications, we strive to bring you the best that the Mac ecosystem has to offer.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Our mission is to inspire and empower Mac users by providing insightful reviews, detailed tutorials, and valuable resources. We believe in the philosophy of open-source and the potential it holds to revolutionize the way we use technology.
 
 Thanks for reading!
+
+## Contribute
+Feel free to comment or create an issue on[GitHub](https://github.com/maverickmac/maverickmac.github.io/pulls).
+
+
+
+
+
+
+----
+© 2024 MaverickMac. All rights reserved.
