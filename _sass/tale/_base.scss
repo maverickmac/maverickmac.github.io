@@ -61,6 +61,25 @@ img {
   max-width: 100%;
 }
 
-td {
-  vertical-align: top;
+table{
+    font-family: $serif-primary;
+    border-collapse: collapse;
+    #border-spacing: 10px;
+    border:2px solid #fffff;
+}
+
+th{
+    font-family: $serif-primary;
+    border:1px solid #9E9E9E;
+    background: #444444;
+    color: white;
+    padding: 6px;
+}
+
+td{
+    font-family: $serif-primary;
+    border:1px solid #9E9E9E;
+    background: #F5F5F5;
+    padding: 8px;
+
 }

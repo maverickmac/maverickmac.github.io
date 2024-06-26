@@ -14,7 +14,7 @@ Our mission is to inspire and empower Mac users by providing insightful reviews,
 Thanks for reading!
 
 ## Contribute
-Feel free to comment or create an issue on[GitHub](https://github.com/maverickmac/maverickmac.github.io/pulls).
+Feel free to comment or create an issue on [GitHub](https://github.com/maverickmac/maverickmac.github.io/pulls).
 
 
 
