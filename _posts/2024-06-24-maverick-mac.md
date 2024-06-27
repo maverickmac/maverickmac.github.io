@@ -21,7 +21,7 @@ hidden: true
 
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
-| Raindrop.io                                                  | Visual bookmarks, tag organization, cross-device synchronization, support for various content types. | Freemium  |
+| [Raindrop.io](https://raindrop.io)                                                  | Visual bookmarks, tag organization, cross-device synchronization, support for various content types. | Freemium  |
 | [Goodlinks](https://goodlinks.app)                           | A alternative to Raindrop. Beautifully designed. Native.     | Paid      |
 | [Couch \(Pocket\)](https://couchreader.app)                  | A cool pocket client for mac & ios.                          | Free      |
 | [Linkeeper](https://apps.apple.com/in/app/linkeeper/id6449708232) | A newcomer. Free.                                            | Free      |
@@ -35,6 +35,9 @@ hidden: true
 |:---------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Numi](https://numi.app/)       |  Numi combines a calculator and a text editor, allowing for natural language calculations and more complex computations. | Free      |
 | [Soulver](https://soulver.app/) | Beautiful expressive calculator.                             | Paid      |
+| [Calca](http://calca.io/)       | A simple sketch pad for match. Understands variables and formulas  | Paid      |
+
+
 
 ### Calendar (Menubar)
 
@@ -61,7 +64,8 @@ hidden: true
 |:------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Maccy](https://github.com/p0deje/Maccy) | Simple and efficient clipboard manager. Sits on menubar. Open source. | Free      |
 | [Cleanclip](https://cleanclip.cc/)       | Most beautiful. Stunning design. Powerful.                   | Freemium  |
-|                                          |                                                              |           |
+| [Clipbook](https://clipbook.app/)        | A keyboard centric clipboard manager. Offers full preview. Sonoma + | Free      |
+
 
 ### **Color Picker**
 
@@ -72,11 +76,14 @@ hidden: true
 | [Pika](https://superhighfives.com/pika)                      | Pika (pronounced pi·kuh, like picker) is an easy to use, open-source, native colour picker for macOS | Free          |
 | [Sip Color for Mac](https://sipapp.io/)                      | Color palettes on the menu bar.                              | Paid          |
 
+
+
 ### **Developer Tools**
 
 | Applications                                        | Description                                                  | Paid/Free |
 |:-----------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Fork](https://git-fork.com)                        | A native, clean, poerful git/github client.  Fast and lightweight, visual commit history, user-friendly interface. | Paid      |
+| [‎Peek](https://www.bigzlabs.com/peek.html)         | Quick look for coders. Preview anything!                     | Paid      |
 | [Paw/Rapid API](https://paw.cloud)                  | Native macOS app, visually appealing interface, advanced request scripting, dynamic values, response visualization, and support for REST | Paid      |
 | [ProxyMan](https://proxyman.io)                     | Open source alternative for Paw. Capture any request. Open source |           |
 | [HTTPie](https://httpie.io/)                        |  Command-line interface, human-friendly and easy to use.     | Free      |
@@ -132,9 +139,7 @@ hidden: true
 
 | **Applications**                             | **Description**           | **Paid/Free** |
 |:------------------------------------------:|:-----------------------:|:-----------:|
-| [ImageOptim](https://imageoptim.com/mac) | Best image compressor | Free      |
-|                                          |                       |           |
-|                                          |                       |           |
+| [ImageOptim](https://imageoptim.com/mac) | Best image compressor | Free      | [TinyPNG](https://github.com/kyleduo/TinyPNG4Mac) | Simple little tool to compress PNG. Lightweight. Open source. | Free      |
 
 
 ### **Image Viewers & Managers**
@@ -151,7 +156,7 @@ hidden: true
 
 | Applications                                         | Description                                                  | Paid/Free |
 |:------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
-| [Bear](https://bear.app)                             | A clean & beatiful note taking app. Meticulously designed.<br>When using as a new window, it can act as a on of the best markdown editor & viewer. | Freemium  |
+| [Bear](https://bear.app)                             | A clean & beatiful note taking app. Meticulously designed.<br>When using as a new window, it can act as a standalone editor. One of the best markdown editor & viewer. | Freemium  |
 | [Typora](https://www.typora.io)                      | A clean and minimal markdown editor                          | Paid      |
 | [MarkText](https://www.marktext.cc)                  | If you want GFM code block, Math formula, Flowchart support, Sequence diagram etc in clean inteface, then this is it. Cool themes. Open source. | Free      |
 | [MacDown](https://macdown.uranusjr.com)              | Around since ages. Same old Macdown.                         | Free      |
@@ -176,6 +181,7 @@ hidden: true
 | [Dropover](https://dropoverapp.com/)                         | Ingenious. Just shake your cursor and drop whatever you are dragging onto the shelf. Then it disappears. Appears again on demand from menubar or with keyboard shortcut. Keeps desktop clean. | Paid          |
 | [Image2Icon](https://img2icnsapp.com/)                       | Easy, drag&drop icon creation                                | Freemium      |
 | [PopClip](https://www.popclip.app)                           | Must have. PopClip appears when you select text with your mouse, floating, providing instant access to useful actions. Avoids extra right or left clicks. Huge collection of [extensions](https://www.popclip.app/extensions/). Some examples are- <br><br>- Text selction -> Formatting:Bold, italic and underline.<br>- Text selction -> Send to Email/Messages<br>- Text selction -> copy as markdown<br>- Text selction -> Send to dropover<br>- Text selction -> Google search<br>- Text selction -> Send/appens to Notes, Evernote<br>- Text selction -> Code block<br>- Text selction -> Create github gist (With SnippetsLab)<br>- Url selction -> Bookmark url (Raindrop, anybox, etc)<br><br>📦 You can easily create your extension with [PopMaker](https://brettterpstra.com/projects/popmaker/) | Paid          |
+| [Progressive Downloader](https://www.macpsd.net/)            | Download manager for your Mac. Native                        | Free          |
 | [‎Text Shot](https://apps.apple.com/in/app/text-shot/id6450152342) | Text Shot is a universal (iOS/iPadOS/macOS) application that lets you take text snippets and create beautiful shareable images (text shots). | Only $2       |
 | [Transnomino](https://www.transnomino.com/)                  | A free & effective batch rename utility for the Mac.         | Free          |
 | [Unclutter](https://unclutterapp.com/)                       | A alternative to dropover. Appears from behind the top menubar. | Paid          |
@@ -193,6 +199,8 @@ hidden: true
 | [Vox Music Player](https://vox.rocks/mac-music-player) | Mac Music Player for Hi-Res music                            | Freemium  |
 | [Doppler Music Player](brushedtype.co)                 | Built for people who buy music                               | Paid      |
 | [Swinsian](https://swinsian.com)                       | A doppler alternative. Expensive                             | Paid      |
+
+
 
 ### **Peripherals (Mouse & Keyboard)**
 
@@ -223,6 +231,7 @@ hidden: true
 | [CleanShotx](https://cleanshot.com/) | No1. Makes your screenshots better. Adds cool gradients to backgrounds. | Paid      |
 | [Shottr](https://shottr.cc/)         | Best open source screenshot tool.                            | Freemium  |
 | [Xnip](https://xnipapp.com/)         | Interesting concept.                                         | Freemium  |
+| [Xnapper](https://xnapper.com/)      | Beautiful screenshots for social media and marketting.       | Freemium  |
 
 
 ### **Social-Media & News**
@@ -231,7 +240,8 @@ hidden: true
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:---------------:|
 | [HacKit](https://github.com/anosidium/HacKit-Feedback-And-Support) | A native macOS Cocoa app for reading Hacker News. Beautifully Designed. | Free          |
 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)      | The best mastadon client available for Mac and iOS among all. Cool themes, cutomizable. Sonoma only. | Free          |
-|                                                              |                                                              |               |
+| [Monal](https://github.com/monal-im/Monal)                   | A native xmpp client for ios & macos. Offers rich image previews. Open source. | Free          |
+
 
 
 ### **System Admin Tools**
@@ -241,7 +251,7 @@ hidden: true
 | [EnvPane](https://github.com/hschmidt/EnvPane)              | An preference pane for environment variables.                | Free          |
 | [Hosts](https://github.com/specialunderwear/Hosts.prefpane) | Hosts - A sys pref pane for /etc/hosts                       | Free          |
 | [Platypus](https://sveinbjorn.org/platypus)                 | Platypus is a developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP programs. | Free          |
-|                                                             |                                                              |               |
+| [PLIST Editor](https://vdt-labs.com/plist-editor/)          | A gem from VDT Labs, great Xcode alternative to visualise and edit PLIST files. Native.  | Paid          |
 
 
 
@@ -266,6 +276,7 @@ hidden: true
 |:----------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [CotEditor](https://coteditor.com/)    | gEdit for Mac.                                               | Free      |
 | [TextMate](https://macromates.com)     | Lightweight, supports various programming languages, syntax highlighting, | Free      |
+| [Watt](https://github.com/davidbalbert/Watt) | A high performance text editor for macOS.                    | Free      |
 | [Bean](https://bean-osx.com/Bean.html) | Rich text processor for mac.                                 | Free      |
 | [Tot](https://tot.rocks/)              | Lighweight tiny sycky note editor. Has popclip extension.    | Free      |
 
