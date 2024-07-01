@@ -88,6 +88,7 @@ hidden: true
 | [ProxyMan](https://proxyman.io)                     | Open source alternative for Paw. Capture any request. Open source |           |
 | [HTTPie](https://httpie.io/)                        |  Command-line interface, human-friendly and easy to use.     | Free      |
 | [Kaleidoscope](https://www.kaleidoscopeapp.com/)    |  Meld for mac. Powerful diff and merge application supporting text, images, and folders. | Paid      |
+| [Meld](https://yousseb.github.io/meld/)             | Gnome’s Meld. A simple yet effective diff tool. Free alternative for Kaleidoscope. A native build for apple silicon is available [here](https://files.catbox.moe/t4eqer.dmg). | Free      |
 | [DevUtils](https://devutils.com/)                   | All-in-one toolbox for developers. 42+ beautifully crafted useful developer tools, native macOS app, work offline. | Paid      |
 | [DevToys](https://devtoys.app/)                     | Open sdource and free DevUtils alternative.                  | Free      |
 | [SnippetsLab](https://www.renfei.org/snippets-lab/) | Gist client. Native, clean snippet manager for mac. Support syntax highlighting. Integrates with github gist. | Paid      |
@@ -139,7 +140,8 @@ hidden: true
 
 | **Applications**                             | **Description**           | **Paid/Free** |
 |:------------------------------------------:|:-----------------------:|:-----------:|
-| [ImageOptim](https://imageoptim.com/mac) | Best image compressor | Free      | [TinyPNG](https://github.com/kyleduo/TinyPNG4Mac) | Simple little tool to compress PNG. Lightweight. Open source. | Free      |
+| [ImageOptim](https://imageoptim.com/mac)          | Best image compressor                                        | Free      |
+| [TinyPNG](https://github.com/kyleduo/TinyPNG4Mac) | Simple little tool to compress PNG. Lightweight. Open source. | Free      |
 
 
 ### **Image Viewers & Managers**
