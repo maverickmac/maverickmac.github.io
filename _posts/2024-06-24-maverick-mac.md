@@ -304,6 +304,8 @@ hidden: true
 
 
 ### **Window Switchers**
+
+
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [1Piece](https://app1piece.com/)                             | Application switcher, window manager, keyboard/mouse utility app and much more. <br><br>- It redefines cmd + tab with window previews and lots of customization. Does better than alt+tab or any other apps.<br><br> - It has its own window switchers which can be activated with keyboard shortcut, hot corner, mouse button press or even mouse gesture. Customizable appearence, app exclusion.<br><br>- Powerful hot corner with many customization options.<br><br>- Powerful use of mouse wheel. For example, you can switch tabs on safari just by scrolling. <br><br>- Apart from that it has many other options like Focus Window, Adjust Windows, Split Assist, Hide/Wrap Mouse Cursor, Modifier Key Twice, App Menu Bar, Switch Active App, Hide/Show Dock, Multi-Display Support, Stage Manager Extensions, Reboot Apps, Quit All Apps etc. | Free      |
