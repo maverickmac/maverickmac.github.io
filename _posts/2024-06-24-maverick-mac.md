@@ -140,7 +140,9 @@ hidden: true
 
 | **Applications**                             | **Description**           | **Paid/Free** |
 |:------------------------------------------:|:-----------------------:|:-----------:|
+| [Clop](https://lowtechguys.com/clop/)                  | As long as the Clop app is running, every time you copy an image to your clipboard, Clop will optimise it to the smallest possible size. | Freemium  |
 | [ImageOptim](https://imageoptim.com/mac)          | Best image compressor                                        | Free      |
+| [Permute](https://software.charliemonroe.net/permute/) | Best video/audio/image converter. Has inbuilt compression option. | Paid      |
 | [TinyPNG](https://github.com/kyleduo/TinyPNG4Mac) | Simple little tool to compress PNG. Lightweight. Open source. | Free      |
 
 
@@ -181,6 +183,7 @@ hidden: true
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:---------------:|
 |                                                              |                                                              |               |
 | [Dropover](https://dropoverapp.com/)                         | Ingenious. Just shake your cursor and drop whatever you are dragging onto the shelf. Then it disappears. Appears again on demand from menubar or with keyboard shortcut. Keeps desktop clean. | Paid          |
+| [Homerow](https://www.homerow.app/)                          | Navigate mac UI with just keyboard without mouse! Keyboard shortcuts for every button in macOS.  | Paid          |
 | [Image2Icon](https://img2icnsapp.com/)                       | Easy, drag&drop icon creation                                | Freemium      |
 | [PopClip](https://www.popclip.app)                           | Must have. PopClip appears when you select text with your mouse, floating, providing instant access to useful actions. Avoids extra right or left clicks. Huge collection of [extensions](https://www.popclip.app/extensions/). Some examples are- <br><br>- Text selction -> Formatting:Bold, italic and underline.<br>- Text selction -> Send to Email/Messages<br>- Text selction -> copy as markdown<br>- Text selction -> Send to dropover<br>- Text selction -> Google search<br>- Text selction -> Send/appens to Notes, Evernote<br>- Text selction -> Code block<br>- Text selction -> Create github gist (With SnippetsLab)<br>- Url selction -> Bookmark url (Raindrop, anybox, etc)<br><br>📦 You can easily create your extension with [PopMaker](https://brettterpstra.com/projects/popmaker/) | Paid          |
 | [Progressive Downloader](https://www.macpsd.net/)            | Download manager for your Mac. Native                        | Free          |
@@ -282,6 +285,8 @@ hidden: true
 | [Bean](https://bean-osx.com/Bean.html) | Rich text processor for mac.                                 | Free      |
 | [Tot](https://tot.rocks/)              | Lighweight tiny sycky note editor. Has popclip extension.    | Free      |
 
+
+
 ### **Window Managers**
 
 | Applications                                         | Description                                                  | Paid/Free |
@@ -294,3 +299,17 @@ hidden: true
 | [Amethyst](https://ianyh.com/amethyst/)              | Free and open-source, tiling window manager, supports multiple layouts (e.g., tall, wide, fullscreen). | Free      |
 | [Divvy](https://mizage.com/divvy/)                   | Grid-based window resizing, customizable grid size, supports keyboard shortcuts, easy drag-and-drop interface, and multiple monitor support. | Paid      |
 | [BetterSnapTool](https://folivora.ai/bettersnaptool) | Sister of BetterTouchTool. Feature Rich.                     | $3        |
+
+
+
+
+### **Window Switchers**
+| Applications                                                 | Description                                                  | Paid/Free |
+|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [1Piece](https://app1piece.com/)                             | Application switcher, window manager, keyboard/mouse utility app and much more. <br><br>- It redefines cmd + tab with window previews and lots of customization. Does better than alt+tab or any other apps.<br><br> - It has its own window switchers which can be activated with keyboard shortcut, hot corner, mouse button press or even mouse gesture. Customizable appearence, app exclusion.<br><br>- Powerful hot corner with many customization options.<br><br>- Powerful use of mouse wheel. For example, you can switch tabs on safari just by scrolling. <br><br>- Apart from that it has many other options like Focus Window, Adjust Windows, Split Assist, Hide/Wrap Mouse Cursor, Modifier Key Twice, App Menu Bar, Switch Active App, Hide/Show Dock, Multi-Display Support, Stage Manager Extensions, Reboot Apps, Quit All Apps etc. | Free      |
+| [Alt+Tab](https://alt-tab-macos.netlify.app/)                | Windows style Alt+Tab for mac                                | Free      |
+| [Context](https://contexts.co/)                              | List, search & scroll based window switchers, that shows windows not apps. An auto-hiding Sidebar lists your windows grouped by Space. To switch just bring the cursor over to the one you want and click. Its basically a Dock — for your windows. | Paid      |
+| [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) | Applications and Windows Switcher for Mac, Witch, Context Alternative.  | Paid      |
+| [DocFlipper](https://docflipper.com/)                        | Cmd+Tab switcher with bookmarks. Asthetic & beautifully designed. | Paid      |
+| [Rcmd](https://lowtechguys.com/rcmd/)                        | Switch apps instantly using the ⌘ Right Command key.         | Paid      |
+| [Witch](https://manytricks.com/witch/)                       | List style window switcher. Lots of customization.           | Paid      |
