@@ -83,11 +83,13 @@ hidden: true
 | Applications                                        | Description                                                  | Paid/Free |
 |:-----------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Fork](https://git-fork.com)                        | A native, clean, poerful git/github client.  Fast and lightweight, visual commit history, user-friendly interface. | Paid      |
+| [IconJar](https://geticonjar.com/)                  | Best for managing Icon library. Drag icons into your apps in any size or color, Bulk export icons in the sizes you need, Optimize SVGs and make them production ready. | Paid      |
 | [‎Peek](https://www.bigzlabs.com/peek.html)         | Quick look for coders. Preview anything!                     | Paid      |
 | [Paw/Rapid API](https://paw.cloud)                  | Native macOS app, visually appealing interface, advanced request scripting, dynamic values, response visualization, and support for REST | Paid      |
 | [ProxyMan](https://proxyman.io)                     | Open source alternative for Paw. Capture any request. Open source |           |
-| [HTTPie](https://httpie.io/)                        |  Command-line interface, human-friendly and easy to use.     | Free      |
-| [Kaleidoscope](https://www.kaleidoscopeapp.com/)    |  Meld for mac. Powerful diff and merge application supporting text, images, and folders. | Paid      |
+| [Proxie](https://proxie.app/)                       | Another native client for debugging http traffic. Available only in selected countries. | Paid      |
+| [HTTPie](https://httpie.io/)                        | Command-line interface, human-friendly and easy to use.      | Free      |
+| [Kaleidoscope](https://www.kaleidoscopeapp.com/)    | Meld for mac. Powerful diff and merge application supporting text, images, and folders. | Paid      |
 | [Meld](https://yousseb.github.io/meld/)             | Gnome’s Meld. A simple yet effective diff tool. Free alternative for Kaleidoscope. A native build for apple silicon is available [here](https://files.catbox.moe/t4eqer.dmg). | Free      |
 | [DevUtils](https://devutils.com/)                   | All-in-one toolbox for developers. 42+ beautifully crafted useful developer tools, native macOS app, work offline. | Paid      |
 | [DevToys](https://devtoys.app/)                     | Open sdource and free DevUtils alternative.                  | Free      |
@@ -106,6 +108,14 @@ hidden: true
 | [Sidebarapp](https://sidebarapp.net/)                 | Taskbar alternative                                          | Paid      |
 | [Dockview \(Beta\)](https://noteifyapp.com/dockview/) | ActiveDock2/Hyperdock alternative.                           | Freemium  |
 
+
+### **Extensions & Services**
+
+| Applications                          | Description                                                  | Paid/Free |
+|---------------------------------------|--------------------------------------------------------------|-----------|
+| [ProNotes](https://www.pronotes.app/) | Popclip for Apple Notes. ProNotes shows an easy-to-reach formatting bar above selected text. Supports markdows and slash commands. Press ⌘ P in Notes to quickly search for notes using a keyboard-friendly interface. Has paid AI feature.<br><br>💡If you want to use this with with popclip, make sure to add Notes and ProNotes into excluded list in popclip settings. | Freemium  |
+|                                       |                                                              |           |
+|                                       |                                                              |           |
 
 ### **Finder Alternative**
 
@@ -185,12 +195,17 @@ hidden: true
 | [Dropover](https://dropoverapp.com/)                         | Ingenious. Just shake your cursor and drop whatever you are dragging onto the shelf. Then it disappears. Appears again on demand from menubar or with keyboard shortcut. Keeps desktop clean. | Paid          |
 | [Homerow](https://www.homerow.app/)                          | Navigate mac UI with just keyboard without mouse! Keyboard shortcuts for every button in macOS.  | Paid          |
 | [Image2Icon](https://img2icnsapp.com/)                       | Easy, drag&drop icon creation                                | Freemium      |
+| [Irvue](https://leonspok.com/irvue/landing/)                 | Stunning wallpapers from unsplash                            | Free          |
+| [Mela](https://mela.recipes/)                                | Award winning recipe app. Native                             | Paid          |
 | [PopClip](https://www.popclip.app)                           | Must have. PopClip appears when you select text with your mouse, floating, providing instant access to useful actions. Avoids extra right or left clicks. Huge collection of [extensions](https://www.popclip.app/extensions/). Some examples are- <br><br>- Text selction -> Formatting:Bold, italic and underline.<br>- Text selction -> Send to Email/Messages<br>- Text selction -> copy as markdown<br>- Text selction -> Send to dropover<br>- Text selction -> Google search<br>- Text selction -> Send/appens to Notes, Evernote<br>- Text selction -> Code block<br>- Text selction -> Create github gist (With SnippetsLab)<br>- Url selction -> Bookmark url (Raindrop, anybox, etc)<br><br>📦 You can easily create your extension with [PopMaker](https://brettterpstra.com/projects/popmaker/) | Paid          |
 | [Progressive Downloader](https://www.macpsd.net/)            | Download manager for your Mac. Native                        | Free          |
+| [Shortcat](https://shortcat.app)                             | A free alternative for Homerow                               | Free          |
 | [‎Text Shot](https://apps.apple.com/in/app/text-shot/id6450152342) | Text Shot is a universal (iOS/iPadOS/macOS) application that lets you take text snippets and create beautiful shareable images (text shots). | Only $2       |
 | [Transnomino](https://www.transnomino.com/)                  | A free & effective batch rename utility for the Mac.         | Free          |
 | [Unclutter](https://unclutterapp.com/)                       | A alternative to dropover. Appears from behind the top menubar. | Paid          |
 | [Ulysses](https://github.com/tborychowski/awesome-mac/blob/master/notes/ulysses.md) | Amazing writing app, with grammar check. Expensive.          | $50/year      |
+
+
 
 
 ### **Music Player**
@@ -204,7 +219,7 @@ hidden: true
 | [Vox Music Player](https://vox.rocks/mac-music-player) | Mac Music Player for Hi-Res music                            | Freemium  |
 | [Doppler Music Player](brushedtype.co)                 | Built for people who buy music                               | Paid      |
 | [Swinsian](https://swinsian.com)                       | A doppler alternative. Expensive                             | Paid      |
-
+| [Tuneful](https://www.martinfekete.com/Tuneful)        | Not really a stansalone player, but to control music playback for both Spotify and Apple Music and see the currently playing song directly in the menu bar. Lots of themes, cool looking, customizable, open source. | Free      |
 
 
 ### **Peripherals (Mouse & Keyboard)**
@@ -212,6 +227,8 @@ hidden: true
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [BetterTouchTool](https://folivora.ai/)                      | No 1 must have app on any new mac. <br><br>**Custom Gestures:** Create custom touchpad, Magic Mousen gesture.<br><br>**Keyboard Shortcuts:** Assign custom keyboard shortcuts to virtually any action or sequence of actions including running applescript or javascript.<br><br>**Mouse Customization:** Assign mouse button to keyboard shortcuts with predefined condition. Some examples are:<br><br>1. ⁠Orange traffic button to hide and Green traffic button to maximise.<br>2. ⁠Middle button hold on an app to app expose<br>3. ⁠Button 4 + Scroll to -> Fn + Cmd + F4 -> app switching<br>4. ⁠Button 5 + scroll -> Cmd + ` (backtick) -> window switching<br>5. ⁠Trigger with double modifier key press like shift + shift, Fn +Fn<br>6. ⁠Mission Control but with hidden windows | only $ 12 |
+| [CustomShortcuts](https://www.houdah.com/customShortcuts/)   | Develop keyboard shortcuts for most Mac programs to streamline navigating menu hierarchies and ensure accurate titles. This functionality integrates with KeyClu, which displays all active shortcuts for the current application. | Free      |
+| [Hyperkey](https://hyperkey.app/)                            | Remap the Caps Lock key to function as a combination of Shift, Control, Option, and Command, creating a new modifier key. This is perfect for users who rarely use Caps Lock for its original purpose. | Free      |
 | [LinearMouse](https://linearmouse.app/)                      | A free alternative to SteerMouse                             | Free      |
 | [MacMouseFix](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.4) | Essential, if you use normal mouse. Provides smooth scroll. <br><br>💡Note: For BTT, all mouse button actions needs to be disabled (Keeping only smooth scroll enabled) so that Button events are recognized in BTT. | Freemium. |
 | [SteerMouse](https://plentycom.jp/en/steermouse/index.html)  | Smooth scrolling + Adjustable Acceleration Curves + Customizable Button Mapping + Cursor Speed Adjustment + Wheel Customization etc. | Paid      |
@@ -256,7 +273,8 @@ hidden: true
 | [EnvPane](https://github.com/hschmidt/EnvPane)              | An preference pane for environment variables.                | Free          |
 | [Hosts](https://github.com/specialunderwear/Hosts.prefpane) | Hosts - A sys pref pane for /etc/hosts                       | Free          |
 | [Platypus](https://sveinbjorn.org/platypus)                 | Platypus is a developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP programs. | Free          |
-| [PLIST Editor](https://vdt-labs.com/plist-editor/)          | A gem from VDT Labs, great Xcode alternative to visualise and edit PLIST files. Native.  | Paid          |
+| [PLIST Editor](https://vdt-labs.com/plist-editor/)          | A gem from VDT Labs, great Xcode alternative to visualise and edit PLIST files. Native. | Paid          |
+| [SSH Config Editor](http://hejki.tilda.ws/ssheditor)        | All in one ssh config manager. One any remote host in your fevorite terminal with just click from toolbar. Beautifully designed. <br><br>It can read from ~/.ssh/config, group them, give them cool icons. Supports jump hosts, local and remote port forwading, key pair generation. It has inbuilt *known-hosts* viewer where one can easily manipulate them.<br><br>Must have for system admins. | Paid          |
 
 
 
@@ -267,12 +285,15 @@ hidden: true
 | [AppCleaner](https://freemacsoft.net/appcleaner/)            | Remove apps along with it’s leftover data. Simple. From freemacsoft. | Free      |
 | [Archify](https://github.com/Oct4Pie/archify?tab=readme-ov-file) | Save space by turning universal binaries to native           |           |
 | [BetterZip](https://macitbetter.com/)                        | Doesn’t automatically extract zip. Can browse inside zip file. Gnome’s File Roller for mac. | Paid      |
+| [Command X](https://sindresorhus.com/command-x)              | Cut and paste files in Finder                                | Free      |
 | [DaisyDisk](https://daisydiskapp.com/)                       | Award winning design. Analyze disk usage and free up disk space. Must have. | Paid      |
 | [FiScript](https://github.com/Mortennn/FiScript)             | Add option to Finder context menu.                           | Free      |
 | [Latest](https://max.codes/latest/)                          | A free and open source app for macOS that checks if all your apps are up to date. | Free      |
 | [Mac-Monitor](https://github.com/redcanaryco/mac-monitor)    | Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Cleaner UI and more powerful than Activity Monitor. | Free      |
+| [MacPacker](https://macpacker.app/)                          | Archive manager for macOS. A free alternative to BetterZip<br><br>- Preview and navigate through archives<br>- Support for nested archives<br>- Drag & drop files from the archive to any other app.<br>- Open source | Free      |
 | [PearCleaner](https://itsalin.com/appInfo/?id=pearcleaner)   | A beautifully designed appcleaner. Can find lot more than Appcleaner. | Free      |
-|                                                              |                                                              |           |
+| [Shareful](https://sindresorhus.com/shareful)                | Another gem from Sindre Sorhus. Add extra powers to the share menu: copy, save as, open in, and more. Available in any app that has a share button. | Free      |
+
 
 
 ### **Text Editors**
@@ -287,6 +308,17 @@ hidden: true
 
 
 
+
+### **VPN Services**
+
+| Applications                                      | Description                                                  | Paid/Free |
+|:---------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [Mullavad VPN](https://mullvad.net/en)            | It delivers excellent connection speeds, making it suitable for streaming, gaming, and browsing. It doesn’t require an email address maintains a strict no-logs policy, | $5/month  |
+| [IVPN](https://www.ivpn.net/en/apps-macos/)       | - Open source. Available for Mac and iOS.<br><br>- Supports WireGuard or OpenVPN protocols.<br><br>- Supports GUI or CLI (command-line interface).<br><br>- AntiTracker that blocks ads, adware, malicious websites and data harvesting trackers.<br><br>- Firewall / killswitch - Ability to configure as on-demand or always-on.<br><br>- Pause VPN for when disabling VPN connection temporarily is required.<br><br>- Auto-connect on launch / on joining insecure Wi-Fi. | $2/week   |
+| [TunnelBear](https://www.tunnelbear.com/apps/mac) | Asthetic design. Sits on the menubar. Strong encryption. 2000 MB of data per month | Freemium  |
+| [Wrap](https://one.one.one.one/)                  | If you want a simple vpn without all the bells and whistles just to unblock a website temporarily then this is it. Provided by popular cloudflare service. | Free      |
+
+
 ### **Window Managers**
 
 | Applications                                         | Description                                                  | Paid/Free |
@@ -295,6 +327,7 @@ hidden: true
 | [Moom](https://manytricks.com/moom/)                 | Around since ages. Lightweight.                              | Paid      |
 | [Wins.cool](https://wins.cool/)                      | Does lot more than snapping windows. Show app preview in dock. Lightweight. | Paid      |
 | [Magnet](https://magnet.crowdcafe.com/)              | Simple and intuitive, allows you to snap windows to edges and corners, supports custom shortcuts, and offers multiple screen support. | Paid      |
+| [Penc](https://deniz.co/penc/)                       | Trackpad-oriented window manager for macOS.  Double press and hold command key to activate Penc. Perform two-finger gestures to move or resize any window. Then release command key to take effect. A free alternative to swish. | Free      |
 | [Rectangle](https://rectangleapp.com/)               | Magnet Alternative. Open source. Free                        | Free      |
 | [Amethyst](https://ianyh.com/amethyst/)              | Free and open-source, tiling window manager, supports multiple layouts (e.g., tall, wide, fullscreen). | Free      |
 | [Divvy](https://mizage.com/divvy/)                   | Grid-based window resizing, customizable grid size, supports keyboard shortcuts, easy drag-and-drop interface, and multiple monitor support. | Paid      |
