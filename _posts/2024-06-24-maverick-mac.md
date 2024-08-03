@@ -20,10 +20,12 @@ hidden: true
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Aiko](https://sindresorhus.com/aiko)                        | AI-powered audio transcription. From Sindre Sorhus.          | Free      |
+| [BlackHole](https://existential.audio/blackhole/)            | Route Audio Between Apps                                     | Free      |
 | [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | Just Press Record is the award-winning audio recorder for mac & ios that brings one-tap recording, transcription and iCloud syncing to all your devices. | Paid      |
 | [Loopback](https://rogueamoeba.com/loopback/)                |  Cable-free audio routing for Mac                            | Freemium  |
 | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)    | Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. A gem from Jordi Bruin, MacGpt Developer. | Freemium  |
 | [Voices](https://goodsnooze.gumroad.com/l/voices?layout=profile) | High Quality Text to Speech with OpenAI.                     | $5        |
+| [SoundSource](https://rogueamoeba.com/soundsource/)          | Per-App & System-wide volume control, output redirection, audio effects & more. | Paid      |
 
 
 
@@ -35,6 +37,7 @@ hidden: true
 | [Hammerspoon](https://www.hammerspoon.org/)                  | It uses the Lua scripting language to control macOS. It can  detect various system events like power on off, displsy on off, application starts quit, audio device connected disconnected, pasteboard changes, change in spaces etc. Very Powerful. | Free      |
 | [Hazel](https://www.noodlesoft.com/)                         | Hazel is a file organization tool that watches designated folders and performs actions based on rules you set. It can automatically sort, tag, rename, move, and delete files based on criteria like name, date, type, and more. | Paid      |
 | [Keyboard Maestro](https://www.keyboardmaestro.com/main/)    | Best macro based Automation tool. Already explained in Pheripherals section. | Paid      |
+| [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) | Automate repetitive actions, launch applications and scripts, control system settings, manipulate files and folders, and perform a wide range of actions – all without ever having to take their hands off the keyboard. | Free      |
 | [Lingon](https://www.peterborgapps.com/lingon/)              | Cron (Launhd) for Mac. And much more.                        | Paid      |
 | [Power Manager](https://www.dssw.co.uk/powermanager/#:~:text=Events%20are%20at%20the%20heart,across%20the%20day%20or%20week.) | Power Manager lets you automate sophisticated tasks based on power/battery/screen related events. | Paid      |
 | [Shortery](https://www.numberfive.co/detail_shortery.html)   | Run Apple shortcuts based on system events or triggers. Some examples of such triggers are:<br>App starts stop, Audio starts stop, Calendar events starts ends, Device connects disconnects, Wifi on off, folder content changes, login logout, power on off, locking/unlocking etc. | Free      |
@@ -108,6 +111,7 @@ hidden: true
 
 | Applications                                        | Description                                                  | Paid/Free |
 |:-----------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [Captain](https://getcaptain.co/)                            | Manage docker container instantly from menubar. Open source. | Free      |
 | [Fork](https://git-fork.com)                        | A native, clean, poerful git/github client.  Fast and lightweight, visual commit history, user-friendly interface. | Paid      |
 | [IconJar](https://geticonjar.com/)                  | Best for managing Icon library. Drag icons into your apps in any size or color, Bulk export icons in the sizes you need, Optimize SVGs and make them production ready. | Paid      |
 | [‎JuxtaText](https://apps.apple.com/in/app/juxtatext/id6504801865?mt=12) | A native alternative for  Kaleidoscope or Meld for comparing text files. Newcomer. Free for now. | Free      |
@@ -142,6 +146,7 @@ hidden: true
 |:-------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [InfyniDock](https://infyniclick.com/)                | Scrollable Dock.                                             | Paid      |
 | [Dockx](https://dockx.app/#)                          | It allows users to create multiple custom docks, each with its own set of applications, documents, and folders for easy access. | Paid      |
+| [DockDoor](https://github.com/ejbills/DockDoor)       |  Window peeking for macOS                                    | Free      |
 | [Taskbar](https://lawand.io/taskbar/)                 | Windows style taskbar for mac Free for V1.                   | Free      |
 | [Cdock](https://www.macenhance.com/cdock.html)        | cDock gives you full control over the Dock. Powerful. Some advanced features requires [disabling](https://www.macenhance.com/docs/general/sip-sec.html) system integrety protection. | Paid      |
 | [Sidebarapp](https://sidebarapp.net/)                 | Taskbar alternative                                          | Paid      |
@@ -155,11 +160,12 @@ hidden: true
 | [Actions](https://sindresorhus.com/actions)                  | Supercharge shortcuts app with lots of additional actions.   | Free      |
 | [Data Jar](https://datajar.app/)                             | Data store for Shortcuts. Stores key value pairs             | Free      |
 | [Music Decoy](https://lowtechguys.com/musicdecoy/)           |  Stop launching the Music app whenever you press ▶ Play      | Free      |
+| [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  | Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Free      |
 | [PowerPhotos](https://www.fatcatsoftware.com/powerphotos/)   | Merge Mac Photos libraries, find duplicate photos, and more  | Paid      |
 | [ProNotes](https://www.pronotes.app/)                        | Popclip for Apple Notes. ProNotes shows an easy-to-reach formatting bar above selected text. Supports markdows and slash commands. Press ⌘ P in Notes to quickly search for notes using a keyboard-friendly interface. Has paid AI feature.<br><br>💡If you want to use this with with popclip, make sure to add Notes and ProNotes into excluded list in popclip settings. | Freemium  |
 | [SymbolicLinker](https://github.com/nickzman/symboliclinker) | A contextual menu plugin for Finder that allows users to make symbolic links in the Finder. | Free      |
 | [Toolbox Pro](https://toolboxpro.app/)                       | Powerful New Actions For Apple Shortcuts.                    | Paid      |
-|                                                              |                                                              |           |
+| [TunesArt](https://www.jibapps.com/apps/tunesart/)           | Display a gorgeous album cover on your desktop               | Freemium  |
 
 ### **Finder Alternative**
 
@@ -222,7 +228,7 @@ hidden: true
 | [MarkText](https://www.marktext.cc)                  | If you want GFM code block, Math formula, Flowchart support, Sequence diagram etc in clean inteface, then this is it. Cool themes. Open source. | Free      |
 | [MacDown](https://macdown.uranusjr.com)              | Around since ages. Same old Macdown.                         | Free      |
 | [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | TextEdit, but with Markdown. Simple. Leightweight.           | Free      |
-
+| [Notary](https://getnotary.app/)                     | Fast, desktop-first & Vim-friendly markdown editor           | Free      |
 
 
 ### **Media Player**
@@ -246,12 +252,16 @@ hidden: true
 | [Image2Icon](https://img2icnsapp.com/)                       | Easy, drag&drop icon creation                                | Freemium      |
 | [Irvue](https://leonspok.com/irvue/landing/)                 | Stunning wallpapers from unsplash                            | Free          |
 | [KeyClu](https://sergii.tatarenkov.name/keyclu/support/)     | Overview of all shortcuts of an app.                         | Free          |
+| [Klack](https://tryklack.com/)                               | Satisfying sound with every keystroke                        | Paid          |
+| [LyricsX](https://github.com/MxIris-LyricsX-Project/LyricsX) | Ultimate lyrics app for macOS. Now revived by new dev. Open source. | Free          |
+| [MacTube](https://mactube.tech/)                             | Native Streaming Video Player for macOS. Without ads.        | Free          |
 | [Mela](https://mela.recipes/)                                | Award winning recipe app. Native                             | Paid          |
 | [Motrix](https://motrix.app/)                                | A all in all one download managers thar Support downloading HTTP, FTP, BitTorrent, Magnet, etc. Open source | Free          |
 | [Multi](https://github.com/kofigumbs/multi)                  | Create custom, lightweight macOS apps from websites          | Free          |
 | [PopClip](https://www.popclip.app)                           | Must have. PopClip appears when you select text with your mouse, floating, providing instant access to useful actions. Avoids extra right or left clicks. Huge collection of [extensions](https://www.popclip.app/extensions/). Some examples are- <br><br>- Text selction -> Formatting:Bold, italic and underline.<br>- Text selction -> Send to Email/Messages<br>- Text selction -> copy as markdown<br>- Text selction -> Send to dropover<br>- Text selction -> Google search<br>- Text selction -> Send/appens to Notes, Evernote<br>- Text selction -> Code block<br>- Text selction -> Create github gist (With SnippetsLab)<br>- Url selction -> Bookmark url (Raindrop, anybox, etc)<br><br>📦 You can easily create your extension with [PopMaker](https://brettterpstra.com/projects/popmaker/) | Paid          |
 | [Progressive Downloader](https://www.macpsd.net/)            | Download manager for your Mac. Native                        | Free          |
 | [Rocket](https://matthewpalmer.net/rocket/)                  | Shows emoji picker when you type colon `[ : ]`               | Freemium      |
+| [Rocket Typist - Boost your typing!](https://www.witt-software.com/rockettypist/) |  Create snippets to automatically expand into longer text, saving time on repetitive typing. | Freemium      |
 | [Shortcat](https://shortcat.app)                             | A free alternative for Homerow                               | Free          |
 | [Subtitlr](http://frkovic.me/)                               | The easiest way to get subtitles on a Mac.                   | Free          |
 | [‎Text Shot](https://apps.apple.com/in/app/text-shot/id6450152342) | Text Shot is a universal (iOS/iPadOS/macOS) application that lets you take text snippets and create beautiful shareable images (text shots). | Only $2       |
@@ -299,6 +309,8 @@ hidden: true
 | [Reeder](https://reederapp.com/)                             | Sleek and intuitive interface, supports multiple services (Feedly, Feedbin, Feed Wrangler, and more), customizable themes, and sync across devices. | Paid      |
 | [NewsExplorer](https://betamagic.nl/products/newsexplorer.html) | Native macOS app, iCloud sync across Apple devices, offline reading, customizable interface, support for notifications. Can fetch full article from almost anywhere. | Paid      |
 | [Vienna](https://www.vienna-rss.com/)                        | Free and open-source, customizable interface, smart folders, article tagging, offline reading, and integration with various sharing services. | Free      |
+| [Unread](https://www.goldenhillsoftware.com/unread/)         |  An RSS Reader with best typography and color themes.        | Freemium  |
+
 
 ### **Screenshot** 
 
@@ -327,6 +339,7 @@ hidden: true
 | [EnvPane](https://github.com/hschmidt/EnvPane)              | An preference pane for environment variables.                | Free          |
 | [Hosts](https://github.com/specialunderwear/Hosts.prefpane) | Hosts - A sys pref pane for /etc/hosts                       | Free          |
 | [Platypus](https://sveinbjorn.org/platypus)                 | Platypus is a developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP programs. | Free          |
+| [ProcessSpy](https://process-spy.app/)                      | View macOS processes with command line arguments.            | Free          |
 | [PLIST Editor](https://vdt-labs.com/plist-editor/)          | A gem from VDT Labs, great Xcode alternative to visualise and edit PLIST files. Native. | Paid          |
 | [SSH Config Editor](http://hejki.tilda.ws/ssheditor)        | All in one ssh config manager. One any remote host in your fevorite terminal with just click from toolbar. Beautifully designed. <br><br>It can read from ~/.ssh/config, group them, give them cool icons. Supports jump hosts, local and remote port forwading, key pair generation. It has inbuilt *known-hosts* viewer where one can easily manipulate them.<br><br>Must have for system admins. | Paid          |
 
@@ -347,6 +360,8 @@ hidden: true
 | [Latest](https://max.codes/latest/)                          | A free and open source app for macOS that checks if all your apps are up to date. | Free      |
 | [Mac-Monitor](https://github.com/redcanaryco/mac-monitor)    | Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Cleaner UI and more powerful than Activity Monitor. | Free      |
 | [MacPacker](https://macpacker.app/)                          | Archive manager for macOS. A free alternative to BetterZip<br><br>- Preview and navigate through archives<br>- Support for nested archives<br>- Drag & drop files from the archive to any other app.<br>- Open source | Free      |
+| [MacUpdater](https://www.corecode.io/macupdater/)            | Track the latest updates of all applications installed on your Mac. Updating, downloading, installing & cleaning up, everything in one app. | Paid      |
+| [Middle](https://middleclick.app/)                           | Add middle click to your Mac. For magic mouse & trackpad.    | Free      |
 | [Mist](https://github.com/ninxsoft/Mist)                     | A Mac utility that automatically downloads macOS Firmwares / Installers. | Free      |
 | [One Switch](https://fireball.studio/oneswitch/)             | Toogle anything from menubat. All of your powerful switches at one place | Paid      |
 | [Only Switch](https://jacklandrin.github.io/macos%20app/2021/12/01/onlyswitch.html) | Free alternative of One Switch. Has shortcut actions as well. | Free      |
@@ -354,6 +369,7 @@ hidden: true
 | [Shareful](https://sindresorhus.com/shareful)                | Another gem from Sindre Sorhus. Add extra powers to the share menu: copy, save as, open in, and more. Available in any app that has a share button. | Free      |
 | [Speediness](https://sindresorhus.com/speediness)            | Check your internet speed in little native app.              | Free      |
 | [Swiftbar](https://github.com/swiftbar/SwiftBar)             | Easily add custom menu bar programs with just shell scripts ! | Free      |
+| [SwiftQuit](https://swiftquit.com/)                          | Automatic quitting of macOS apps when closing their last window (clicking the red x). It can be configured to quit when the last window of any app closed, or restricted to a specific list of apps. Additionally, you can exclude apps you dont want to quit automatically. | Free      |
 | [Tembo](https://www.houdah.com/tembo/)                       | Another friendly file search assistant for Mac. Very Fast.   | Paid      |
 | [TrashMe 3](https://www.jibapps.com/apps/trashme3/)          | Clean your Mac and uninstall apps. A paid alternative for Appcleaner & PearCleaner | Paid      |
 
