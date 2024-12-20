@@ -146,6 +146,7 @@ hidden: true
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Control your display’s brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | Free          |
 | [DisplayBuddy](https://buy.displaybuddy.app/?aff=lk2pl)      | Control your monitors directly from your Mac                 | Paid          |
 | [DarkModeBuddy](https://insidegui.gumroad.com/l/darkmodebuddy?a=5026131) | Automatically switch your Mac between light and dark modes based on the ambient light sensor. | Free          |
+| [Lunar](https://lunar.fyi/)                                  | The defacto app for controlling monitors brightness. Lunar uses DDC (Display Data Channel) to keep the colour rendering closer to reality, consumes less power and minimizes the backlight bleeding effect. | Paid          |
 | [SwitchGlass](https://hypercritical.co/switchglass/)         | Customize Mac appearance, size, and position (including dock) on each attached display, including hiding it on selected displays. | Free          |
 
 
@@ -173,8 +174,9 @@ hidden: true
 | [FileUtils](https://fileutils.com/)                          | Advanced file operations integrated into Finder. Offers finer file access control, powerful Access Control List and its full featured editor. | Paid      |
 | [Folder Preview](https://apps.apple.com/in/app/folder-preview/id6698876601) | Quick view for folders with configurable depth. A gem from anybox LTD |           |
 | [Hush](https://oblador.github.io/hush/)                      | Noiseless Browsing.Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad. | Free      |
-| [Manila:](https://github.com/neilsardesai/Manila)            |  A Finder extension for changing folder colors from context menu | Free      |
+| [Manila](https://github.com/neilsardesai/Manila)            |  A Finder extension for changing folder colors from context menu | Free      |
 | [Music Decoy](https://lowtechguys.com/musicdecoy/)           |  Stop launching the Music app whenever you press ▶ Play      | Free      |
+| [NoTunes](https://github.com/tombonez/noTunes)              | A simple macOS application that will prevent iTunes or Apple Music from launching. | Free      |
 | [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  | Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Free      |
 | [PowerPhotos](https://www.fatcatsoftware.com/powerphotos/)   | Merge Mac Photos libraries, find duplicate photos, and more  | Paid      |
 | [ProNotes](https://www.pronotes.app/)                        | Popclip for Apple Notes. ProNotes shows an easy-to-reach formatting bar above selected text. Supports markdows and slash commands. Press ⌘ P in Notes to quickly search for notes using a keyboard-friendly interface. Has paid AI feature.<br><br>💡If you want to use this with with popclip, make sure to add Notes and ProNotes into excluded list in popclip settings. | Freemium  |
@@ -342,6 +344,7 @@ hidden: true
 
 | Applications                                               | Description                                                  | Paid/Free |
 |:------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [Alcove](https://tryalcove.com/)                           | Most beautiful & fluid minimal dynamic island for Mac        | Paid      |
 | [BoringNotch](https://github.com/iamharshdev/boring.notch) | Best free Dynamic Island like capability for Mac. Smooth  music control & battery indicator. color themes. Support for Macbook Air. More features on the roadmap. Not so boring notch? Yeah ? | Free      |
 | [Forehead](https://goodsnooze.gumroad.com/l/nASbe)         | Hide the Notch and round the corners                         | Free      |
 | [NotchNook](https://lo.cafe/notchnook)                     | Widgets, live actions, files shelf, a thousand options, NotchNook is a true center of utilities. Little buggy. | Paid      |
@@ -356,6 +359,7 @@ hidden: true
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [BetterTouchTool](https://folivora.ai/)                      | No 1 must have app on any new mac. <br><br>**Custom Gestures:** Create custom touchpad, Magic Mousen gesture.<br><br>**Keyboard Shortcuts:** Assign custom keyboard shortcuts to virtually any action or sequence of actions including running applescript or javascript.<br><br>**Mouse Customization:** Assign mouse button to keyboard shortcuts with predefined condition. Some examples are:<br><br>1. ⁠Orange traffic button to hide and Green traffic button to maximise.<br>2. ⁠Middle button hold on an app to app expose<br>3. ⁠Button 4 + Scroll to -> Fn + Cmd + F4 -> app switching<br>4. ⁠Button 5 + scroll -> Cmd + ` (backtick) -> window switching<br>5. ⁠Trigger with double modifier key press like shift + shift, Fn +Fn<br>6. ⁠Mission Control but with hidden windows | only $ 12 |
 | [CustomShortcuts](https://www.houdah.com/customShortcuts/)   | Develop keyboard shortcuts for most Mac programs to streamline navigating menu hierarchies and ensure accurate titles. This functionality integrates with KeyClu, which displays all active shortcuts for the current application. | Free      |
+| [Fluor](https://github.com/Pyroh/Fluor)                      | A handy tool for macOS allowing you to switch Fn keys’ mode based on active application. | Free      |
 | [Hyperkey](https://hyperkey.app/)                            | Remap the Caps Lock key to function as a combination of Shift, Control, Option, and Command, creating a new modifier key. This is perfect for users who rarely use Caps Lock for its original purpose. | Free      |
 | [LinearMouse](https://linearmouse.app/)                      | A free alternative to SteerMouse                             | Free      |
 | [MacMouseFix](https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.4) | Essential, if you use normal mouse. Provides smooth scroll. <br><br>💡Note: For BTT, all mouse button actions needs to be disabled (Keeping only smooth scroll enabled) so that Button events are recognized in BTT. | Freemium. |
@@ -431,10 +435,12 @@ hidden: true
 | [Platypus](https://sveinbjorn.org/platypus)                 | Platypus is a developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP programs. | Free          |
 | [ProcessSpy](https://process-spy.app/)                      | View macOS processes with command line arguments.            | Free          |
 | [PLIST Editor](https://vdt-labs.com/plist-editor/)          | A gem from VDT Labs, great Xcode alternative to visualise and edit PLIST files. Native. | Paid          |
+| [Prefs Editor](http://apps.tempel.org/PrefsEditor/)          | A GUI for the 'defaults' command. Suitable for older version of Mac | Free          |
 | [ShellHistory](https://loshadki.app/shellhistory/)          | A native app to backup, sync and organize your shell (bash, zsh etc) history. | Paid          |
 | [Sloth](https://github.com/sveinbjornt/Sloth)                | Lsof for Mac. A native Mac app that shows all open files, directories, sockets, pipes, and devices in use by all running processes on your system. This makes it easy to inspect which apps are using which files, etc. | Free          |
 | [SSH Config Editor](http://hejki.tilda.ws/ssheditor)        | All in one ssh config manager. One any remote host in your fevorite terminal with just click from toolbar. Beautifully designed. <br><br>It can read from ~/.ssh/config, group them, give them cool icons. Supports jump hosts, local and remote port forwading, key pair generation. It has inbuilt *known-hosts* viewer where one can easily manipulate them.<br><br>Must have for system admins. | Paid          |
 | [SwiftDialog](https://github.com/swiftDialog/swiftDialog)   | Create native dialogs with title, text, images & action buttions for easy user-notifications on macOS. Format text with markdown. | Free          |
+| [WiredBuddy](https://github.com/yeahitsjan/WiredBuddy)       | The missing icon for ethernet interfaces, but cool.          | Free          |
 | [Web-Serve](https://github.com/jaywcjlove/web-serve)        | Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background.  | Free          |
 
 
@@ -444,6 +450,7 @@ hidden: true
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [AppCleaner](https://freemacsoft.net/appcleaner/)            | Remove apps along with it’s leftover data. Simple. From freemacsoft. | Free      |
+| [Applite](https://aerolite.dev/applite)                      | A fantastic gui for hombrew cask                             | Free      |
 | [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) | Control heat and fan noise, extend your battery time and increase the amount of CPU power available for you frontmost application. App Tamer comes preconfigured to automatically reduce the CPU and battery usage of many other applications when they are idle.  | Paid      |
 | [Archify](https://github.com/Oct4Pie/archify?tab=readme-ov-file) | Save space by turning universal binaries to native           |           |
 | [BetterZip](https://macitbetter.com/)                        | Doesn’t automatically extract zip. Can browse inside zip file. Gnome’s File Roller for mac. | Paid      |
