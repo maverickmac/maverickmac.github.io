@@ -61,6 +61,17 @@ hidden: true
 
 
 
+### Battery And Power Management
+
+| Applications                                                 | Description                                                  | Paid/Free |
+|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [AlDente](https://apphousekitchen.com/)                      | The ALL-IN-ONE charge Limiter App for MacBooks. Overconfigured. | Paid      |
+| [BatFi](https://micropixels.software/apps/batfi)             | Eseential for MAcbooks. BatFi helps you optimize your macOS battery performance by managing charging levels intelligently, yet giving you full control charging to 100% only when it's needed. Menubar fruendly and can replace default battery icon. | $9        |
+| [Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) | Free alternative of Batfi. <br>- Limits battery charge to an upper limit<br>- Allows battery charge to drain to a lower limit<br>- Allows you to disable the power adapter<br>- Grants you manual control | Free      |
+| [Battery](https://github.com/actuallymentor/battery)         | CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs | Free      |
+
+
+
 ### **Calculator**
 
 | Applications                    | Description                                                  | Paid/Free |
@@ -164,6 +175,18 @@ hidden: true
 | [Dockview \(Beta\)](https://noteifyapp.com/dockview/) | ActiveDock2/Hyperdock alternative.                           | Freemium  |
 
 
+
+
+### **Ebooks & PDF**
+
+
+| Applications                         | Description                                                  | Paid/Free |
+|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [PDF Expert](https://pdfexpert.com/) | Edit text, images, and links, highlight, underline, and add notes, fill out and sign PDF forms combine multiple PDFs, file Encryption etc. | Paid      |
+| [Readest](https://readest.com/)      | - Synchronize views seamlessly while reading two documents side by side.<br><br>- Highlight, bookmark, take notes, and perform full-text searches all in one place.<br><br>- Adjust fonts, layouts, and theme colors, native like ui | Free      |
+
+
+
 ### **Extensions & Services**
 
 | Applications                                                 | Description                                                  | Paid/Free |
@@ -172,7 +195,7 @@ hidden: true
 | [Data Jar](https://datajar.app/)                             | Data store for Shortcuts. Stores key value pairs             | Free      |
 | [FinderFix](https://synappser.github.io/apps/finderfix/)     | Open finder windows every time with same size !              | Free      |
 | [FileUtils](https://fileutils.com/)                          | Advanced file operations integrated into Finder. Offers finer file access control, powerful Access Control List and its full featured editor. | Paid      |
-| [Folder Preview](https://apps.apple.com/in/app/folder-preview/id6698876601) | Quick view for folders with configurable depth. A gem from anybox LTD |           |
+| [Folder Preview](https://apps.apple.com/in/app/folder-preview/id6698876601) | Quick view for folders with configurable depth. A gem from anybox LTD |  Paid         |
 | [Hush](https://oblador.github.io/hush/)                      | Noiseless Browsing.Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad. | Free      |
 | [Manila](https://github.com/neilsardesai/Manila)            |  A Finder extension for changing folder colors from context menu | Free      |
 | [Music Decoy](https://lowtechguys.com/musicdecoy/)           |  Stop launching the Music app whenever you press ▶ Play      | Free      |
@@ -276,9 +299,10 @@ hidden: true
 
 | **Applications**         | **Description**                                              | **Paid/Free** |
 |:--------------------------:|:--------------------------------------------------------------:|:---------------:|
-| [IINA](https://iina.io/) | Built on mpv, Picture-in-Picture Mode, Subtitle support, Mouse & Trackpad guesture, Keyboard shortcuts, Low system resources. Open Source. | Free          |
-|                          |                                                              |               |
-|                          |                                                              |               |
+| [Elmedia](https://www.elmedia-video-player.com/) | It can handle any conceivable media format. Local files can be streamed to Chromecast, AirPlay, Roku and DLNA devices. No additional codecs are required for it to work. Support 70+ video/audio formats. | Free          |
+| [IINA](https://iina.io/)                         | Built on mpv, Picture-in-Picture Mode, Subtitle support, Mouse & Trackpad guesture, Keyboard shortcuts, Low system resources. Open Source. | Free          |
+| [Infuse](https://firecore.com/infuse)            | Infuse’s powerful, super-efficient playback engine supports just about every video file ever created including: MKV, MP4, AVI, ISO, DVD, BDMV, and many, many others. | Free          |
+| [Movist](https://movistprime.com/)               | Comprehensive Media Player, dual Subtitle Support, customizable Interface including transparency and control layout. | Paid          |
 
 
 ### **Miscellaneous Apps**
@@ -302,6 +326,7 @@ hidden: true
 | [MacTube](https://mactube.tech/)                             | Native Streaming Video Player for macOS. Without ads.        | Free          |
 | [MediaMate](https://wouter01.github.io/MediaMate/)           | Fresh visuals for Volume, Brightness and Now Playing. Get a quick look at which media is currently playing. Tucked away in the notch! | Paid          |
 | [Mela](https://mela.recipes/)                                | Award winning recipe app. Native                             | Paid          |
+| [Mouseless](https://mouseless.click/)                        | Lightning-fast mouse control with the keyboard.              | Paid          |
 | [Motrix](https://motrix.app/)                                | A all in all one download managers thar Support downloading HTTP, FTP, BitTorrent, Magnet, etc. Open source | Free          |
 | [Multi](https://github.com/kofigumbs/multi)                  | Create custom, lightweight macOS apps from websites          | Free          |
 | [Paletro](https://appmakes.io/paletro)                   | Search within menu bar  by pressing ⇧⌘P, you have access to all of the functionality of current focused app, including keyboard shortcuts for the most common operations. | Paid          |
@@ -313,14 +338,14 @@ hidden: true
 | [Rocket](https://matthewpalmer.net/rocket/)                  | Shows emoji picker when you type colon `[ : ]`               | Freemium      |
 | [Rocket Typist](https://www.witt-software.com/rockettypist/) |  Create snippets to automatically expand into longer text, saving time on repetitive typing. | Freemium      |
 | [Shortcat](https://shortcat.app)                             | A free alternative for Homerow                               | Free          |
+| [Shortcut Keeper](https://shortcutkeeper.com/)               | Save the keyboard shortcuts<br>you want to remember          | Paid          |
 | [Subtitlr](http://frkovic.me/)                               | The easiest way to get subtitles on a Mac.                   | Free          |
 | [‎Text Shot](https://apps.apple.com/in/app/text-shot/id6450152342) | Text Shot is a universal (iOS/iPadOS/macOS) application that lets you take text snippets and create beautiful shareable images (text shots). | Only $2       |
 | [Trace](https://trace-app.pages.dev/)                        | A time tracker for apps in a visual, easy to understand, color coded timeline view. A alternative to screen time. | Free          |
 | [Transnomino](https://www.transnomino.com/)                  | A free & effective batch rename utility for the Mac.         | Free          |
 | [Unclutter](https://unclutterapp.com/)                       | A alternative to dropover. Appears from behind the top menubar. | Paid          |
 | [Ulysses](https://github.com/tborychowski/awesome-mac/blob/master/notes/ulysses.md) | Amazing writing app, with grammar check. Expensive.          | $50/year      |
-
-
+| [Wooshy](https://wooshy.app/)                                | Wooshy searches the whole macOS UI—including the Dock, the left menu bar and the right status bar—and clicks. Ditch the mouse and keep your lovely fingers where they belong. | Freemium      |
 
 
 ### **Music Player**
@@ -401,6 +426,7 @@ hidden: true
 |:----------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [1001 Record](https://1001record.com/) | A fast & effective screen recorder.<br><br>- Auto save recordings by file size or time intervals<br>- Record in high quality (720P, 1080P, 2k, and 4k)<br>- Record Microphone & MacOS Audio<br>- Annotation Tools, FPS Options & more<br> | Free      |
 | [KeyLimePie](https://keylimepie.app/)  | Show your keybord shortcuts on screen during screen recording/sharing | Paid      |
+| [Screen.Studio](https://screen.studio/)                  | It automatically zooms in on your cursor, increases cursor size and smooths its movements. Perfect for recording beautiful videos and demos of their products and services. | Paid      |
 
 
 
@@ -470,6 +496,7 @@ hidden: true
 | [Memory Cleaner](https://nektony.com/memory-cleaner)         | Find the most memory consuming apps and free up RAM with one click from menu bar. | Free      |
 | [Middle](https://middleclick.app/)                           | Add middle click to your Mac. For magic mouse & trackpad.    | Free      |
 | [Mist](https://github.com/ninxsoft/Mist)                     | A Mac utility that automatically downloads macOS Firmwares / Installers. | Free      |
+| [Mousecape](https://github.com/alexzielenski/Mousecape)      | A free cursor manager for Mac OS 10.8+ built using private, nonintrusive CoreGraphics APIs. | Free      |
 | [One Switch](https://fireball.studio/oneswitch/)             | Toogle anything from menubat. All of your powerful switches at one place | Paid      |
 | [Only Switch](https://jacklandrin.github.io/macos%20app/2021/12/01/onlyswitch.html) | Free alternative of One Switch. Has shortcut actions as well. | Free      |
 | [PearCleaner](https://itsalin.com/appInfo/?id=pearcleaner)   | A beautifully designed appcleaner. Can find lot more than Appcleaner. | Free      |
