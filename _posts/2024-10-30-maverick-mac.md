@@ -11,7 +11,7 @@ hidden: true
 
 # Maverick Mac
 
-*A curated list of awesome mac applications and utilities*
+*A curated list of awesome mac applications and utilities* (*updated 24 January 2025*)
 
 <!--more-->
 
@@ -27,7 +27,7 @@ hidden: true
 | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)    | Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. A gem from Jordi Bruin, MacGpt Developer. | Freemium  |
 | [Piezo](https://rogueamoeba.com/piezo/)                      | Record Audio from any apps or devices, i.e. from web-browsers, from Apple Music/Spotify, from Voip apps like Skype or Zoom, from podcast app, from movie players like IINA. Another gem from Rogue Amoeba. | Paid      |
 | [Voices](https://goodsnooze.gumroad.com/l/voices?layout=profile) | High Quality Text to Speech with OpenAI.                     | $5        |
-| [SoundSource](https://rogueamoeba.com/soundsource/)          | Per-App & System-wide volume control, output redirection, audio effects & more. | Paid      |
+| [SoundSource](https://rogueamoeba.com/soundsource/)          | Per-App & System-wide volume control & EQ, output redirection, audio effects & more. | Paid      |
 
 
 
@@ -95,6 +95,7 @@ hidden: true
 
 | Applications                                            | Description                                                  | Paid/Free |
 |:---------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [ChatWise](https://chatwise.app/)                       | Chat with audio, PDF, images, text files. Built & optimized for desktop. Supports any LLM model, including GPT-4, Claude, Gemini, and more. | Freemium  |
 | [MacGPT](https://www.macgpt.com)                        | Best native chat-gpt app. Sits on your menubar. Can be summoned from anywhere with a keyword `\gpt`. | $20       |
 | [MacBot](https://themacbrogroup.gumroad.com/l/macbot)   | A free native client. Can generate imsge through DALL-E. Sonoma + only. | Free      |
 | [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) | Another clean & simple gpt app from Sindre Sorhus.           | Free      |
@@ -172,6 +173,8 @@ hidden: true
 | [Taskbar](https://lawand.io/taskbar/)                 | Windows style taskbar for mac Free for V1.                   | Free      |
 | [Cdock](https://www.macenhance.com/cdock.html)        | cDock gives you full control over the Dock. Powerful. Some advanced features requires [disabling](https://www.macenhance.com/docs/general/sip-sec.html) system integrety protection. | Paid      |
 | [Sidebarapp](https://sidebarapp.net/)                 | Taskbar alternative                                          | Paid      |
+| [Dockey](https://dockey.publicspace.co/)              |  More advanced Dock preferences as easy as clicking a button.  | Free      |
+| [DockFix](https://dockfix.lubker.dk/)                 | Customize Your macOS Dock Like Never Before with Native Look & Feel | Paid      |
 | [Dockview \(Beta\)](https://noteifyapp.com/dockview/) | ActiveDock2/Hyperdock alternative.                           | Freemium  |
 
 
@@ -183,6 +186,7 @@ hidden: true
 | Applications                         | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [PDF Expert](https://pdfexpert.com/) | Edit text, images, and links, highlight, underline, and add notes, fill out and sign PDF forms combine multiple PDFs, file Encryption etc. | Paid      |
+| [PDF Gear](https://www.pdfgear.com/) | Read, edit, convert, merge, and sign PDF files across devices, for completely free | Free      |
 | [Readest](https://readest.com/)      | - Synchronize views seamlessly while reading two documents side by side.<br><br>- Highlight, bookmark, take notes, and perform full-text searches all in one place.<br><br>- Adjust fonts, layouts, and theme colors, native like ui | Free      |
 
 
@@ -234,6 +238,7 @@ hidden: true
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | Award winning in design firewall app.<br><br>- Provides real-time monitoring of all inbound and outbound network connections.<br><br>- Notifies you when an app tries to connect to the internet, giving you control over allowing or denying it.<br><br>- Displays detailed visual information about data usage, connections, and server locations<br> | Paid      |
+| [Lockdown Privacy](https://lockdownprivacy.com/)             | Block trackers, ads, and badware — in all your apps. Free and Open Source. | Free      |
 | [Radio Silence](https://radiosilenceapp.com/)                | Monitor & block apps that make unwanted network connections. Clean & unobtrusive design. | Paid      |
 | [SwiftGuard](https://github.com/Lennolium/swiftGuard)        | Anti-forensic macOS tray application designed to safeguard your system by monitoring USB ports. | Free      |
 
@@ -277,6 +282,7 @@ hidden: true
 | [ApolloOne](https://www.apollooneapp.com/) | Image Viewer with somewhat complex UI | Paid          |
 | [FlowVision](https://github.com/netdcy/FlowVision) | Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience. | Free          |
 | [Lyn](https://www.lynapp.com/)             | No1.  Lightweight, and fast media browser and viewer for designed for Photographers, Graphic Artists and Web Designers | Paid          |
+| [Picview](https://picview.chitaner.com/)           | Minimal modern user interface, Make image viewing simpler and Window style on Mac. | Freemium      |
 | [Pixea](https://www.imagetasks.com/pixea/) | Newcomer. Open source.                | Free          |
 |                                            |                                       |               |
 
@@ -329,6 +335,7 @@ hidden: true
 | [Mouseless](https://mouseless.click/)                        | Lightning-fast mouse control with the keyboard.              | Paid          |
 | [Motrix](https://motrix.app/)                                | A all in all one download managers thar Support downloading HTTP, FTP, BitTorrent, Magnet, etc. Open source | Free          |
 | [Multi](https://github.com/kofigumbs/multi)                  | Create custom, lightweight macOS apps from websites          | Free          |
+| [Name Changer](https://lucas.io/namechanger/)                | Rename your files effortlessly. Add a prefix, suffix, replace or truncate characters, add EXIF data etc. Native and beatifully designed. | Paid          |
 | [Paletro](https://appmakes.io/paletro)                   | Search within menu bar  by pressing ⇧⌘P, you have access to all of the functionality of current focused app, including keyboard shortcuts for the most common operations. | Paid          |
 | [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)   | Compress your PDF files with just drag & drop.               | Paid          |
 | [PopClip](https://www.popclip.app)                           | Must have. PopClip appears when you select text with your mouse, floating, providing instant access to useful actions. Avoids extra right or left clicks. Huge collection of [extensions](https://www.popclip.app/extensions/). Some examples are- <br><br>- Text selction -> Formatting:Bold, italic and underline.<br>- Text selction -> Send to Email/Messages<br>- Text selction -> copy as markdown<br>- Text selction -> Send to dropover<br>- Text selction -> Google search<br>- Text selction -> Send/appens to Notes, Evernote<br>- Text selction -> Code block<br>- Text selction -> Create github gist (With SnippetsLab)<br>- Url selction -> Bookmark url (Raindrop, anybox, etc)<br><br>📦 You can easily create your extension with [PopMaker](https://brettterpstra.com/projects/popmaker/) | Paid          |
@@ -402,6 +409,7 @@ hidden: true
 
 | Applications                              | Description                                                  | Paid/Free |
 |:-------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [DeskPad](https://github.com/Stengo/DeskPad) | A virtual monitor for screen sharing. Launching the app is equivalent to plugging in a monitor! | Free      |
 | [Duet](https://www.duetdisplay.com/)      | Remote Desktop, Second Display, Screen Mirroring Drawing Tablet, and More. | Paid      |
 | [Jump Desktop](https://jumpdesktop.com/)  | Securely connect to and control other computers from your Mac.Cross-Platform Support, RDP freindly, Multi-Monitor Support, SSH Tunnel, File Transfer, Clipboard Sharing & more. | Paid      |
 | [Screens](https://edovia.com/en/screens/) | Seamlessly control your computer from your iPhone, iPad, Mac or Vision Pro. Has support encrypted connection (SSH tunnel) to connect back to your computer. | Paid      |
@@ -412,6 +420,7 @@ hidden: true
 
 | Applications                                                 | Description                                                  | Paid/Free |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [Artykul](https://artykul.org/)                              | A native card like, beautifully designed rss feed reader like in social networks, but without algorithmic hell. Have support for notifications per feed basis. Can sync with ipad/ios. | Freemium  |
 | [Lire](http://www.lireapp.com)                               | Native. Clean. Meticulously designed. Can fetch full article for various feeds including reddit. | Paid      |
 | [Reeder](https://reederapp.com/)                             | Sleek and intuitive interface, supports multiple services (Feedly, Feedbin, Feed Wrangler, and more), customizable themes, and sync across devices. | Paid      |
 | [NewsExplorer](https://betamagic.nl/products/newsexplorer.html) | Native macOS app, iCloud sync across Apple devices, offline reading, customizable interface, support for notifications. Can fetch full article from almost anywhere. | Paid      |
@@ -425,7 +434,10 @@ hidden: true
 | Applications                           | Description                                                  | Paid/Free |
 |:----------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [1001 Record](https://1001record.com/) | A fast & effective screen recorder.<br><br>- Auto save recordings by file size or time intervals<br>- Record in high quality (720P, 1080P, 2k, and 4k)<br>- Record Microphone & MacOS Audio<br>- Annotation Tools, FPS Options & more<br> | Free      |
+|                                                              |                                                              |           |
+| [KeyCastr](https://github.com/keycastr/keycastr)             | An open-source keystroke visualizer. It enables you to share your keystrokes when creating screencasts, presenting, or collaborating with others. | Free      |
 | [KeyLimePie](https://keylimepie.app/)  | Show your keybord shortcuts on screen during screen recording/sharing | Paid      |
+| [Polycapture](https://appahead.studio/apps/polycapture/)     | PolyCapture for Mac lets you to record webcams, microphones, screens, and apps — individually or simultaneously. | Paid      |
 | [Screen.Studio](https://screen.studio/)                  | It automatically zooms in on your cursor, increases cursor size and smooths its movements. Perfect for recording beautiful videos and demos of their products and services. | Paid      |
 
 
@@ -465,6 +477,7 @@ hidden: true
 | [ShellHistory](https://loshadki.app/shellhistory/)          | A native app to backup, sync and organize your shell (bash, zsh etc) history. | Paid          |
 | [Sloth](https://github.com/sveinbjornt/Sloth)                | Lsof for Mac. A native Mac app that shows all open files, directories, sockets, pipes, and devices in use by all running processes on your system. This makes it easy to inspect which apps are using which files, etc. | Free          |
 | [SSH Config Editor](http://hejki.tilda.ws/ssheditor)        | All in one ssh config manager. One any remote host in your fevorite terminal with just click from toolbar. Beautifully designed. <br><br>It can read from ~/.ssh/config, group them, give them cool icons. Supports jump hosts, local and remote port forwading, key pair generation. It has inbuilt *known-hosts* viewer where one can easily manipulate them.<br><br>Must have for system admins. | Paid          |
+| [Startup Folder](https://lowtechguys.com/startupfolder/)     | Run anything at startup by simply placing it in a special folder. Open source. Another gem from LowTechGuys. | Free          |
 | [SwiftDialog](https://github.com/swiftDialog/swiftDialog)   | Create native dialogs with title, text, images & action buttions for easy user-notifications on macOS. Format text with markdown. | Free          |
 | [WiredBuddy](https://github.com/yeahitsjan/WiredBuddy)       | The missing icon for ethernet interfaces, but cool.          | Free          |
 | [Web-Serve](https://github.com/jaywcjlove/web-serve)        | Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background.  | Free          |
@@ -539,8 +552,10 @@ hidden: true
 | Applications                                         | Description                                                  | Paid/Free |
 |:------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
 | [Swish](https://highlyopinionated.co/swish/)         | Create magic with touchpad! Out of the world. Works with keyboard shortcuts as well. Smoothest of them all. | Paid      |
+| [Clippper](https://inchman.gumroad.com/l/Clippper)         | Use use Control + Option **+** ↓ ↑ ← → to control your windows.  | Free      |
 | [Moom](https://manytricks.com/moom/)                 | Around since ages. Lightweight.                              | Paid      |
 | [Wins.cool](https://wins.cool/)                      | Does lot more than snapping windows. Show app preview in dock. Lightweight. | Paid      |
+| [Loop](https://github.com/MrKai77/Loop?tab=readme-ov-file) | Effortlessly choose your window direction using a Radial menu! Inginious. | Free      |
 | [Magnet](https://magnet.crowdcafe.com/)              | Simple and intuitive, allows you to snap windows to edges and corners, supports custom shortcuts, and offers multiple screen support. | Paid      |
 | [Penc](https://deniz.co/penc/)                       | Trackpad-oriented window manager for macOS.  Double press and hold command key to activate Penc. Perform two-finger gestures to move or resize any window. Then release command key to take effect. A free alternative to swish. | Free      |
 | [Rectangle](https://rectangleapp.com/)               | Magnet Alternative. Open source. Free                        | Free      |
